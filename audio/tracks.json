@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    {
+      "title": "Midnight Drive",
+      "filename": "midnight-drive.wav",
+      "bpm": 120,
+      "timeSignature": "4/4",
+      "bars": 8,
+      "durationSeconds": 16,
+      "sampleRate": 22050,
+      "channels": 1,
+      "bitDepth": 16,
+      "sizeBytes": 705644,
+      "sha256": "c4e9c73f382b4cc5f015201d405486efe4a2797738570d50573fc9e184db1a63",
+      "url": "https://raw.githubusercontent.com/zipse-git-erdone/DJ-tuna/main/audio/midnight-drive.wav"
+    },
+    {
+      "title": "Neon Terrace",
+      "filename": "neon-terrace.wav",
+      "bpm": 120,
+      "timeSignature": "4/4",
+      "bars": 8,
+      "durationSeconds": 16,
+      "sampleRate": 22050,
+      "channels": 1,
+      "bitDepth": 16,
+      "sizeBytes": 705644,
+      "sha256": "ec10a5bbecf02dda7bcfcf86df3dafce03a99e66e1a51ecff56259d345cb2756",
+      "url": "https://raw.githubusercontent.com/zipse-git-erdone/DJ-tuna/main/audio/neon-terrace.wav"
+    }
+  ]
+}
