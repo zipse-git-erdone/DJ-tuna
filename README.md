@@ -8,7 +8,7 @@ The current library contains eight MP3s in `audio/`. All tracks have a base temp
 
 | File | BPM |
 | --- | --- |
-| [1 -zipse - obey.mp3](audio/1%20-zipse%20-%20obey.mp3) | 140 |
+| [1 - zipse - obey.mp3](audio/1%20-%20zipse%20-%20obey.mp3) | 140 |
 | [2 - zipse - dubting.mp3](audio/2%20-%20zipse%20-%20dubting.mp3) | 140 |
 | [aliyah somebody (zipse rmx).mp3](audio/aliyah%20somebody%20(zipse%20rmx).mp3) | 140 |
 | [kid cudi - day n night (zipse rmx).mp3](audio/kid%20cudi%20-%20day%20n%20night%20(zipse%20rmx).mp3) | 140 |
@@ -32,4 +32,5 @@ Keep audio files in `audio/`. After uploading or renaming a track, update the ap
 Production uses commit-pinned CDN URLs so audio and waveform data refer to the same file version. Links in the table above follow the latest files on `main`.
 
 `audio/tracks.json` is legacy metadata for the removed generated loops; it is not the current Mix Kitchen catalog.
+
 
